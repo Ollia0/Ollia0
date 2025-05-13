@@ -1,5 +1,7 @@
 ## Bonjour, I'm Doris 👋🏾
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 I'm a French IT student specialized in cybersecurity, web, and software development. !  
 
 If you'd like to talk about CTFs, or if you have a job opportunity, feel free to reach out!
@@ -21,6 +23,8 @@ If you'd like to talk about CTFs, or if you have a job opportunity, feel free to
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original-wordmark.svg" height=45 alt=OCaml/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height=45 alt=Bash/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height=45 alt=Git/>
 </div>
 
 ## 📖 Currently learning
@@ -31,7 +35,7 @@ If you'd like to talk about CTFs, or if you have a job opportunity, feel free to
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />   
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height=45 alt=PostGreSQL/>
   &nbsp;
@@ -44,7 +48,7 @@ If you'd like to talk about CTFs, or if you have a job opportunity, feel free to
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="45" alt="Flutter" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height=45 alt=Git/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" />
 </p>
 
 <hr>
